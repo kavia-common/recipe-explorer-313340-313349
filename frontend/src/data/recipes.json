@@ -1,0 +1,277 @@
+[
+  {
+    "id": "spicy-chickpea-bowl",
+    "title": "Spicy Chickpea Bowl",
+    "image": "https://images.unsplash.com/photo-1540189549336-e6e99c3679fe?auto=format&fit=crop&w=1400&q=80",
+    "description": "A bright, protein-packed bowl with roasted chickpeas, quinoa, and a cooling yogurt drizzle.",
+    "ingredients": [
+      { "item": "Canned chickpeas", "quantity": "1 (15 oz) can, drained" },
+      { "item": "Cooked quinoa", "quantity": "2 cups" },
+      { "item": "Olive oil", "quantity": "1 tbsp" },
+      { "item": "Smoked paprika", "quantity": "1 tsp" },
+      { "item": "Cumin", "quantity": "1 tsp" },
+      { "item": "Greek yogurt", "quantity": "1/2 cup" },
+      { "item": "Lemon juice", "quantity": "1 tbsp" },
+      { "item": "Cucumber", "quantity": "1/2 cup, diced" },
+      { "item": "Cherry tomatoes", "quantity": "1 cup, halved" }
+    ],
+    "steps": [
+      "Preheat oven to 425°F (220°C). Toss chickpeas with olive oil, paprika, cumin, and a pinch of salt.",
+      "Roast chickpeas for 18–22 minutes until crisp, shaking the pan halfway.",
+      "Mix yogurt and lemon juice; season with salt and pepper.",
+      "Assemble bowls with quinoa, roasted chickpeas, cucumber, and tomatoes. Drizzle yogurt sauce on top."
+    ],
+    "time": 30,
+    "servings": 2,
+    "cuisine": "Mediterranean",
+    "difficulty": "Easy",
+    "dietary": ["Vegetarian", "Gluten-Free"],
+    "tags": ["High Protein", "Meal Prep", "Spicy"],
+    "nutrition": { "calories": 520, "protein": 22, "fat": 16, "carbs": 72 }
+  },
+  {
+    "id": "lemon-garlic-salmon",
+    "title": "Lemon Garlic Salmon",
+    "image": "https://images.unsplash.com/photo-1519708227418-c8fd9a32b7a2?auto=format&fit=crop&w=1400&q=80",
+    "description": "Pan-seared salmon with a buttery lemon-garlic sauce—fast, flavorful, and weeknight-friendly.",
+    "ingredients": [
+      { "item": "Salmon fillets", "quantity": "2 (6 oz) fillets" },
+      { "item": "Butter", "quantity": "1 tbsp" },
+      { "item": "Olive oil", "quantity": "1 tbsp" },
+      { "item": "Garlic", "quantity": "3 cloves, minced" },
+      { "item": "Lemon", "quantity": "1 (zest + juice)" },
+      { "item": "Parsley", "quantity": "2 tbsp, chopped" }
+    ],
+    "steps": [
+      "Pat salmon dry and season with salt and pepper.",
+      "Heat oil in a skillet over medium-high. Sear salmon 3–4 minutes per side until cooked through.",
+      "Reduce heat; add butter and garlic. Cook 30 seconds until fragrant.",
+      "Add lemon juice and zest. Spoon sauce over salmon and finish with parsley."
+    ],
+    "time": 20,
+    "servings": 2,
+    "cuisine": "American",
+    "difficulty": "Easy",
+    "dietary": ["Gluten-Free"],
+    "tags": ["Quick", "Seafood"],
+    "nutrition": { "calories": 430, "protein": 38, "fat": 28, "carbs": 6 }
+  },
+  {
+    "id": "veggie-fried-rice",
+    "title": "Veggie Fried Rice",
+    "image": "https://images.unsplash.com/photo-1604908554105-088645debe26?auto=format&fit=crop&w=1400&q=80",
+    "description": "Use leftover rice to make a colorful fried rice with crisp veggies and a savory sauce.",
+    "ingredients": [
+      { "item": "Cooked rice (day-old)", "quantity": "3 cups" },
+      { "item": "Carrots", "quantity": "1/2 cup, diced" },
+      { "item": "Peas", "quantity": "1/2 cup" },
+      { "item": "Bell pepper", "quantity": "1/2 cup, diced" },
+      { "item": "Soy sauce", "quantity": "2 tbsp" },
+      { "item": "Sesame oil", "quantity": "1 tsp" },
+      { "item": "Eggs", "quantity": "2 (optional)" },
+      { "item": "Green onions", "quantity": "2, sliced" }
+    ],
+    "steps": [
+      "Heat a wok or skillet over high heat. Add a splash of oil.",
+      "If using eggs, scramble and set aside.",
+      "Stir-fry carrots, peas, and pepper for 3–4 minutes.",
+      "Add rice and break up clumps. Stir in soy sauce and sesame oil.",
+      "Return eggs, toss with green onions, and serve."
+    ],
+    "time": 25,
+    "servings": 4,
+    "cuisine": "Asian",
+    "difficulty": "Easy",
+    "dietary": ["Dairy-Free"],
+    "tags": ["Leftovers", "One Pan"],
+    "nutrition": { "calories": 360, "protein": 11, "fat": 9, "carbs": 58 }
+  },
+  {
+    "id": "classic-margherita-pizza",
+    "title": "Classic Margherita Pizza",
+    "image": "https://images.unsplash.com/photo-1601924582975-7d3b9b66b8f1?auto=format&fit=crop&w=1400&q=80",
+    "description": "Crispy crust, fresh mozzarella, basil, and tomato sauce—simple ingredients, big flavor.",
+    "ingredients": [
+      { "item": "Pizza dough", "quantity": "1 ball" },
+      { "item": "Tomato sauce", "quantity": "1/2 cup" },
+      { "item": "Fresh mozzarella", "quantity": "6 oz, sliced" },
+      { "item": "Fresh basil", "quantity": "1 handful" },
+      { "item": "Olive oil", "quantity": "1 tbsp" }
+    ],
+    "steps": [
+      "Preheat oven to 500°F (260°C) with a pizza stone or baking sheet inside.",
+      "Stretch dough into a 12-inch round. Spread sauce evenly.",
+      "Add mozzarella slices and drizzle olive oil.",
+      "Bake 8–12 minutes until bubbly and browned. Top with basil before slicing."
+    ],
+    "time": 25,
+    "servings": 2,
+    "cuisine": "Italian",
+    "difficulty": "Medium",
+    "dietary": ["Vegetarian"],
+    "tags": ["Comfort Food", "Weekend"],
+    "nutrition": { "calories": 640, "protein": 26, "fat": 22, "carbs": 82 }
+  },
+  {
+    "id": "chicken-tikka-wraps",
+    "title": "Chicken Tikka Wraps",
+    "image": "https://images.unsplash.com/photo-1604909053196-6bbf0c9bb8a6?auto=format&fit=crop&w=1400&q=80",
+    "description": "Bold tikka spices, tender chicken, and crunchy slaw wrapped in a warm flatbread.",
+    "ingredients": [
+      { "item": "Chicken breast", "quantity": "1 lb, sliced" },
+      { "item": "Yogurt", "quantity": "1/2 cup" },
+      { "item": "Tikka masala spice blend", "quantity": "2 tbsp" },
+      { "item": "Lime juice", "quantity": "1 tbsp" },
+      { "item": "Flatbreads", "quantity": "4" },
+      { "item": "Cabbage slaw mix", "quantity": "2 cups" }
+    ],
+    "steps": [
+      "Marinate chicken with yogurt, spice blend, and lime for 10 minutes (or up to overnight).",
+      "Cook chicken in a hot skillet 6–8 minutes until browned and cooked through.",
+      "Warm flatbreads, add slaw, then chicken. Roll and serve."
+    ],
+    "time": 30,
+    "servings": 4,
+    "cuisine": "Indian",
+    "difficulty": "Medium",
+    "dietary": [],
+    "tags": ["Spicy", "Handheld"],
+    "nutrition": { "calories": 540, "protein": 41, "fat": 18, "carbs": 52 }
+  },
+  {
+    "id": "avocado-toast-deluxe",
+    "title": "Avocado Toast Deluxe",
+    "image": "https://images.unsplash.com/photo-1551183053-bf91a1d81141?auto=format&fit=crop&w=1400&q=80",
+    "description": "Creamy avocado on toasted sourdough with lemon, chili flakes, and a jammy egg.",
+    "ingredients": [
+      { "item": "Sourdough bread", "quantity": "2 slices" },
+      { "item": "Ripe avocado", "quantity": "1" },
+      { "item": "Lemon juice", "quantity": "1 tsp" },
+      { "item": "Chili flakes", "quantity": "Pinch" },
+      { "item": "Eggs", "quantity": "2" }
+    ],
+    "steps": [
+      "Toast bread until golden.",
+      "Mash avocado with lemon juice, salt, and pepper.",
+      "Soft-boil or fry eggs to preference.",
+      "Top toast with avocado, egg, and chili flakes."
+    ],
+    "time": 15,
+    "servings": 2,
+    "cuisine": "American",
+    "difficulty": "Easy",
+    "dietary": ["Vegetarian"],
+    "tags": ["Breakfast", "Quick"],
+    "nutrition": { "calories": 410, "protein": 16, "fat": 24, "carbs": 33 }
+  },
+  {
+    "id": "thai-green-curry",
+    "title": "Thai Green Curry",
+    "image": "https://images.unsplash.com/photo-1604908177453-3f1350d1a7f6?auto=format&fit=crop&w=1400&q=80",
+    "description": "Fragrant green curry with coconut milk, veggies, and jasmine rice.",
+    "ingredients": [
+      { "item": "Green curry paste", "quantity": "2 tbsp" },
+      { "item": "Coconut milk", "quantity": "1 (13.5 oz) can" },
+      { "item": "Vegetable broth", "quantity": "1/2 cup" },
+      { "item": "Bell peppers", "quantity": "1 cup, sliced" },
+      { "item": "Zucchini", "quantity": "1 cup, sliced" },
+      { "item": "Tofu", "quantity": "10 oz, cubed" },
+      { "item": "Jasmine rice", "quantity": "Cooked, for serving" }
+    ],
+    "steps": [
+      "Simmer curry paste in a pot for 1 minute to bloom.",
+      "Add coconut milk and broth; bring to a gentle simmer.",
+      "Add tofu and veggies; cook 10–12 minutes until tender.",
+      "Serve over jasmine rice."
+    ],
+    "time": 35,
+    "servings": 4,
+    "cuisine": "Thai",
+    "difficulty": "Medium",
+    "dietary": ["Vegan", "Dairy-Free", "Gluten-Free"],
+    "tags": ["Curry", "Comfort Food"],
+    "nutrition": { "calories": 560, "protein": 18, "fat": 34, "carbs": 52 }
+  },
+  {
+    "id": "greek-salad",
+    "title": "Greek Salad",
+    "image": "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?auto=format&fit=crop&w=1400&q=80",
+    "description": "Crisp cucumbers, tomatoes, olives, feta, and oregano with a simple vinaigrette.",
+    "ingredients": [
+      { "item": "Cucumber", "quantity": "1, chopped" },
+      { "item": "Tomatoes", "quantity": "2, chopped" },
+      { "item": "Red onion", "quantity": "1/4, sliced" },
+      { "item": "Kalamata olives", "quantity": "1/3 cup" },
+      { "item": "Feta", "quantity": "1/2 cup, crumbled" },
+      { "item": "Olive oil", "quantity": "2 tbsp" },
+      { "item": "Red wine vinegar", "quantity": "1 tbsp" },
+      { "item": "Dried oregano", "quantity": "1 tsp" }
+    ],
+    "steps": [
+      "Combine cucumber, tomatoes, onion, and olives in a bowl.",
+      "Whisk olive oil, vinegar, oregano, salt, and pepper.",
+      "Toss salad with dressing and top with feta."
+    ],
+    "time": 10,
+    "servings": 4,
+    "cuisine": "Mediterranean",
+    "difficulty": "Easy",
+    "dietary": ["Vegetarian", "Gluten-Free"],
+    "tags": ["No Cook", "Fresh"],
+    "nutrition": { "calories": 260, "protein": 7, "fat": 22, "carbs": 11 }
+  },
+  {
+    "id": "lentil-soup",
+    "title": "Hearty Lentil Soup",
+    "image": "https://images.unsplash.com/photo-1543353071-087092ec393a?auto=format&fit=crop&w=1400&q=80",
+    "description": "A cozy, filling soup with lentils, vegetables, and herbs—perfect for meal prep.",
+    "ingredients": [
+      { "item": "Green lentils", "quantity": "1 cup" },
+      { "item": "Onion", "quantity": "1, diced" },
+      { "item": "Carrots", "quantity": "2, diced" },
+      { "item": "Celery", "quantity": "2 stalks, diced" },
+      { "item": "Garlic", "quantity": "3 cloves, minced" },
+      { "item": "Crushed tomatoes", "quantity": "1 cup" },
+      { "item": "Vegetable broth", "quantity": "6 cups" },
+      { "item": "Bay leaf", "quantity": "1" }
+    ],
+    "steps": [
+      "Sauté onion, carrots, and celery 5 minutes until softened.",
+      "Add garlic and cook 30 seconds.",
+      "Add lentils, tomatoes, broth, and bay leaf. Simmer 25–30 minutes until lentils are tender.",
+      "Season to taste and serve."
+    ],
+    "time": 45,
+    "servings": 6,
+    "cuisine": "American",
+    "difficulty": "Easy",
+    "dietary": ["Vegan", "Dairy-Free"],
+    "tags": ["Meal Prep", "Soup"],
+    "nutrition": { "calories": 320, "protein": 18, "fat": 5, "carbs": 52 }
+  },
+  {
+    "id": "banana-oat-pancakes",
+    "title": "Banana Oat Pancakes",
+    "image": "https://images.unsplash.com/photo-1490474418585-ba9bad8fd0ea?auto=format&fit=crop&w=1400&q=80",
+    "description": "Blender pancakes made with oats and bananas—naturally sweet and satisfying.",
+    "ingredients": [
+      { "item": "Rolled oats", "quantity": "1 cup" },
+      { "item": "Ripe bananas", "quantity": "2" },
+      { "item": "Eggs", "quantity": "2" },
+      { "item": "Baking powder", "quantity": "1 tsp" },
+      { "item": "Cinnamon", "quantity": "1/2 tsp" }
+    ],
+    "steps": [
+      "Blend oats into a flour, then blend in bananas, eggs, baking powder, cinnamon, and a pinch of salt.",
+      "Heat a nonstick pan over medium; grease lightly.",
+      "Cook pancakes 2–3 minutes per side until set and golden."
+    ],
+    "time": 20,
+    "servings": 3,
+    "cuisine": "American",
+    "difficulty": "Easy",
+    "dietary": ["Gluten-Free"],
+    "tags": ["Breakfast", "Kid Friendly"],
+    "nutrition": { "calories": 290, "protein": 11, "fat": 7, "carbs": 46 }
+  }
+]
